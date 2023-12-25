@@ -9,7 +9,7 @@ For each script, .bas file is uploaded as source code, and .pptm file is stored 
 The scripts available on this repository are listed and explained below.
 
 ### Write shape RGB
-*related files : [color-infos.bas](https://github.com/ronan-deshays/powerpoint-utility-scripts/write-shape-RGB/blob/main/color-infos.bas) ; [user-interface.bas](https://github.com/ronan-deshays/powerpoint-utility-scripts/write-shape-RGB/blob/main/user-interface.bas) ; [example.pptm](https://github.com/ronan-deshays/powerpoint-utility-scripts/releases/latest/download/example.pptm)*
+*related files : [color-infos.bas](https://github.com/ronan-deshays/powerpoint-utility-scripts/blob/main/write-shape-RGB/color-infos.bas) ; [user-interface.bas](https://github.com/ronan-deshays/powerpoint-utility-scripts/blob/main/write-shape-RGB/user-interface.bas) ; [example.pptm](https://github.com/ronan-deshays/powerpoint-utility-scripts/releases/latest/download/example.pptm)*
 
 For a selected shape, gets RGB code of the filling color of the shape, and writes this code in the shape as text.
 
